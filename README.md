@@ -1,2 +1,2 @@
 # Guessing-Game
-Try to guess right 
+A guessing game where a user has to guess a secret word
